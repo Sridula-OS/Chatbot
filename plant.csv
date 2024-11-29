@@ -1,0 +1,11 @@
+Plant Name,Best Soil Type,Worst Soil Type,Seedling Water Requirement,Vegetative Water Requirement,Flowering Water Requirement,Fertilizer,Planting Season,Additional Tips
+Tomato,Loamy,Heavy clay,0.5,2,3,NPK 10-10-10,August-September,Requires full sun and staking; prune regularly.
+Brinjal,Sandy loam,Loamy,0.3,1.5,2,Compost or manure,June-July,Avoid excessive watering; ensure well-drained soil.
+Coriander,Sandy loam,Clay,0.3,0.5,0.5,Organic compost,October-November,Grows best in partial shade; avoid overwatering.
+Carrot,Sandy loam,Chalky,0.3,1,1.2,Phosphorus-rich fertilizer,September-November,Ensure soil is free of stones; avoid waterlogging.
+Mango,Sandy loam,Clay,2,20,25,Farmyard manure,January-February,Plant in full sun; protect from frost.
+Banana,Sandy loamy,Sandy,3,10,15,Urea and potassium,June-July,Requires frequent watering and mulching to retain moisture.
+Beans,Loamy,Clay,0.2,1,1.5,Phosphorus-rich fertilizer,October-November,Use trellises for support; avoid waterlogging.
+Spinach,Sandy loam,Saline,0.3,0.5,0.5,Organic manure,Year-round,Grows best in cooler weather; harvest regularly for new growth.
+Chili,Loamy,Clay,0.3,1,1.5,NPK 10-10-10,August-September,Needs good drainage and full sunlight.
+Guava,Sandy loam,Saline,2,10,20,Farmyard manure,July-August,Prune regularly for better fruiting.
